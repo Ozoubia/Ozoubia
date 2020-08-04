@@ -1,2 +1,2 @@
-<p align="center"><img src="used github pic.png" ></p>
+<p align="center"><img src="pic.png" ></p>
 
