@@ -1,2 +1,3 @@
-<p align="center"><img src="pic.png" width=460px ></p>
+![logo](https://raw.githubusercontent.com/Ozoubia/Ozoubia/master/pic.png)
+
 
